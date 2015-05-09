@@ -11,14 +11,14 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap-3
-tagline: Site Tagline
+title : Alex Clark | Information Technology Manager, Developer, Attorney
+tagline: Building a more just and open society through information security, code, and law
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Alexander Clark
+  email : alexsays@encryptyour.email
+  github : amsclark
+  twitter : amsclark531
+
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
